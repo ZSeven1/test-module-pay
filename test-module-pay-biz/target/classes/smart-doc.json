@@ -1,0 +1,11 @@
+{
+  "outPath": "target/doc",
+  "packageFilters": "",
+  "openUrl": "http://192.168.2.12:7700/api",
+  "appToken": "aecce23d4ab245d095116de229c45627",
+  "debugEnvName": "本地环境",
+  "debugEnvUrl": "http://127.0.0.1:8080",
+  "tornaDebug": true,
+  "replace": true,
+  "projectName": "HappyHomePC"
+}
